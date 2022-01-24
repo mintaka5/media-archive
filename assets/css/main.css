@@ -1,0 +1,22 @@
+body {
+    padding-top: 70px;
+}
+
+.footer {
+    position: relative;
+    margin-top: -75px;
+    height: 75px;
+    clear: both;
+    padding-top: 20px;
+    background-color: mintcream;
+}
+
+.break-word {
+    -ms-word-break: break-all;
+    word-break: break-all;
+    word-break: break-word;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    hyphens: auto;
+    word-wrap: break-word;
+}
